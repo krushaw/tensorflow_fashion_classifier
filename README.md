@@ -103,10 +103,10 @@ Through this project, I learned:
 ## Screenshots
 
 ### Prediction Example
-![Prediction](screenshots\Screenshot 2026-05-14 173856_edited.png)
+![Prediction](screenshots/Figure_2.png)
 
 ### Training Accuracy
-![Accuracy](screenshots\Figure_1.png)
+![Accuracy](screenshots/Figure_1.png)
 
 ## Author
 
